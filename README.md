@@ -9,3 +9,4 @@
 List assignment is done
 Nested List done
 Anchor element assign,ent is done
+Image assignment done
