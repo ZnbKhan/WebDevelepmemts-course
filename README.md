@@ -14,3 +14,5 @@ Birthday Invitation assignment done
 
 # THIRD MODULE
 Computer Paths assignment done
+web pages assignment done
+portfolio assignment done
