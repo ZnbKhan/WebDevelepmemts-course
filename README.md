@@ -16,3 +16,6 @@ Birthday Invitation assignment done
 Computer Paths assignment done
 web pages assignment done
 portfolio assignment done
+
+# Capstone project
+created a own portfolio
