@@ -19,3 +19,6 @@ portfolio assignment done
 
 # Capstone project
 created a own portfolio
+
+# CSS
+created first CSS assignment
