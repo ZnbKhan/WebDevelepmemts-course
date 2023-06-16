@@ -1,0 +1,24 @@
+
+*{
+    color:black;
+}
+ol {
+    margin-left: -40px;
+    margin-top: -20px;
+    list-style-position: inside;
+  }
+
+  .mid{
+    text-align:center;
+  }
+
+  li:first-child{
+    color:red;
+  }
+
+  #green{
+    color:green;
+  }
+  li[draggable]{
+    color:blue;
+  }

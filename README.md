@@ -22,3 +22,4 @@ created a own portfolio
 
 # CSS
 created first CSS assignment
+Completed selector assignment
