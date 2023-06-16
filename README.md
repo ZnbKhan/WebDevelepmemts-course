@@ -21,7 +21,11 @@ portfolio assignment done
 created a own portfolio
 
 # CSS
+--Basics--
+CSS/CSS0
 created first CSS assignment
 Completed selector assignment
 Final Project Color Vocab done
 
+--Properties--
+css colors assignment done in CSS/CSS1 folder
