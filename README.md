@@ -29,3 +29,4 @@ Final Project Color Vocab done
 
 --Properties--
 css colors assignment done in CSS/CSS1 folder
+complated properties assignment
