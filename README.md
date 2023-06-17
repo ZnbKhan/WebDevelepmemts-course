@@ -27,7 +27,8 @@ created first CSS assignment
 Completed selector assignment
 Final Project Color Vocab done
 
---Properties--
+--Properties-- CSS/CSS1
 css colors assignment done in CSS/CSS1 folder
 complated properties assignment
 Box Model Assignment done
+CSS1 Final project done (Motivation Meme)
