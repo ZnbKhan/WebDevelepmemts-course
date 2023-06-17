@@ -38,3 +38,6 @@ Specificity Inheritence in done
 Combining Selectors done
 position assignment done
 Final Project done
+
+--Advance CSS -- CSS/advanceCSS
+Display assignment done
