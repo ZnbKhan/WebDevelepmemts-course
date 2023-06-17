@@ -32,3 +32,7 @@ css colors assignment done in CSS/CSS1 folder
 complated properties assignment
 Box Model Assignment done
 CSS1 Final project done (Motivation Meme)
+
+--Cascade-- CSS/CSS2
+Specificity Inheritence in done
+
