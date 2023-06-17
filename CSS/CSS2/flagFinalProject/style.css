@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+}
+.main{
+    position: relative;
+    margin-left:300px;
+    margin-top: 150px;
+}
+.size{
+    height:100px;
+    width:300px;
+}
+.orange{
+    background-color:#E86A33;
+
+}
+.white{
+    background-color:azure;
+}
+.green{
+    background-color: green;
+}
