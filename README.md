@@ -36,3 +36,4 @@ CSS1 Final project done (Motivation Meme)
 --Cascade-- CSS/CSS2
 Specificity Inheritence in done
 Combining Selectors done
+position assignment done
