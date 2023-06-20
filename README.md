@@ -49,3 +49,4 @@ Final Project needs to complete
 
 --FLEXBOX -- CSS/Flexbox
 display
+flex direction
