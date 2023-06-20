@@ -33,6 +33,8 @@ complated properties assignment
 Box Model Assignment done
 CSS1 Final project done (Motivation Meme)
 
+
+
 --Cascade-- CSS/CSS2
 Specificity Inheritence in done
 Combining Selectors done
@@ -43,3 +45,4 @@ Final Project done
 Display assignment done
 float assignment done
 media query assignment done
+Final Project needs to complete
